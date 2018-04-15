@@ -1,0 +1,10 @@
+{
+  "pressCommand": {
+    "a":"person",
+    "b":"attitude",
+    "c":"hehavior",
+    "1":"time",
+    "2":"location"
+  },
+  "tag_schema": "BIO"
+}
